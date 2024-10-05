@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 salam
-byr
+by
+=======
+salam2
+>>>>>>> my-test
